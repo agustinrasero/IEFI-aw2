@@ -1,0 +1,34 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Camiseta",
+        "stock": 100,
+        "precio": 19.99
+      },
+      {
+        "id": 2,
+        "nombre": "Pantalones",
+        "stock": 50,
+        "precio": 29.99
+      },
+      {
+        "id": 3,
+        "nombre": "Zapatos",
+        "stock": 200,
+        "precio": 49.99
+      },
+      {
+        "id": 4,
+        "nombre": "Sombrero",
+        "stock": 150,
+        "precio": 14.99
+      },
+      {
+        "id": 5,
+        "nombre": "Bufanda",
+        "stock": 300,
+        "precio": 9.99
+      }
+    ]
+}

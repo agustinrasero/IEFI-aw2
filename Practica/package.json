@@ -1,0 +1,21 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.mjs",
+    "act": "nodemon actividad.mjs",
+    "iefi": "nodemon practicaExpress.mjs"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
